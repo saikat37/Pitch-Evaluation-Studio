@@ -1,0 +1,19 @@
+streamlit>=1.20
+fastapi>=0.95
+uvicorn[standard]>=0.22
+ffmpeg-python>=0.2.0
+python-multipart == 0.0.20
+moviepy == 1.0.3
+librosa == 0.11.0
+soundfile == 0.13.1
+numpy == 2.0.2
+faster-whisper == 1.2.1
+langchain-core == 1.1.0
+langchain-groq == 1.1.0
+langgraph == 1.0.3
+pydantic == 2.12.3
+typing_extensions == 4.15.0
+python-dotenv == 1.2.1
+aiofiles == 24.1.0
+gtts == 2.5.4
+pydub == 0.25.1
